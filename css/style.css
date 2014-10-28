@@ -48,7 +48,10 @@ a:visited {
 .row {
   padding:50px 0px;
 }
-
+.row-header {
+  margin-left:0px !important;
+  margin-right:0px !important;
+}
 .jumbotron {
   margin:0;
   padding:0;
